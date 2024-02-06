@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Asteria",
-	"newClientUrl" : "asteriaot.com.br",
+	"newClientUrl" : "https://github.com/jimonada/clientasteria/releases/download/1.0.0/client-to-update.zip",
 	"clientExecutable": "Asteria.exe"
 }
