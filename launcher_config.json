@@ -19,9 +19,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		{
 			"name": "storeimages"
 		},
-		{
-			"name": "bin"
-		}
 	],
 	"clientFolder": "Asteria",
 	"newClientUrl" : "https://github.com/jimonada/clientasteria/releases/download/v1.0.0/client-to-update.zip",
